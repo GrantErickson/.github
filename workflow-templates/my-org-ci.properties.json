@@ -1,0 +1,15 @@
+{
+    "name": "My Organization Workflow",
+    "description": "My Organization CI workflow template.",
+    "iconName": "bell",
+    "categories": [
+        "shell",
+        "typescript",
+        "javascript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
