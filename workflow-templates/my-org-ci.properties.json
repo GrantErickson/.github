@@ -5,11 +5,14 @@
     "categories": [
         "shell",
         "typescript",
-        "javascript"
+        "javascript",
+        "java"
     ],
     "filePatterns": [
         "package.json$",
         "^Dockerfile",
-        ".*\\.md$"
+        ".*\\.md$",
+        "*.java"
+        
     ]
 }
