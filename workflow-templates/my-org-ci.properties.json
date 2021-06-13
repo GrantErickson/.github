@@ -3,10 +3,9 @@
     "description": "My Organization CI workflow template.",
     "iconName": "bell",
     "categories": [
-        "shell",
+        "java",
         "typescript",
-        "javascript",
-        "java"
+        "javascript"
     ],
     "filePatterns": [
         "package.json$",
