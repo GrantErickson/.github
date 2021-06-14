@@ -3,14 +3,12 @@
     "description": "My Organization CI workflow template.",
     "iconName": "bell",
     "categories": [
-        "java",
-        "typescript",
-        "javascript"
+        "Java",
+        "TypeScript",
+        "JavaScript"
     ],
     "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$",
+        "pom.xml",
         "*.java"
         
     ]
